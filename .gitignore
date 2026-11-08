@@ -1,0 +1,15 @@
+# Datos personales (no se suben a GitHub)
+datos/
+tareas.md
+notas.md
+borradores/
+
+# Claves y configuración local
+.env
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
